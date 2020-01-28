@@ -25,6 +25,7 @@ Global includes
     #include <sys/stat.h>
     #include <wchar.h>
     #include "NoWindows.h"
+    #include <algorithm>
 #endif
 
 #include <stdlib.h>
